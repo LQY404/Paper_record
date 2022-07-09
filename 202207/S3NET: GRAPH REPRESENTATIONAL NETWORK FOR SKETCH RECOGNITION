@@ -1,0 +1,14 @@
+# paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102957
+# code: https://github.com/yanglan0225/s3net
+
+总体上，该论文提出了一个segment-stroke-sketch的层次化模型。
+一个sketch图像由多个具备前后顺序关系的segment构成；同时，每个segment又是由多个具备顺序关系的stroke构成。基于这个数据特征，作者构造了多个层次的图网络模型。
+在整体的处理中，考虑到顺序关系，作者首先使用LSTM进行底层的segment的特征提取，再使用GCN进行stroke级别的建模，得到sketch层次的表示结果，并最终用于分类。
+
+由于实习期间设备限制，我们在这里摘抄比较重要的部分，并记录个人的理解。
+- While turning points bring in semantic variations, histogram of stroke-lengths decide the length-cutting threshold based on each class.
+不一样的类别不一样的线条之间的差异由转角节点以及线条长度共同决定，这两个特征在segment以及stroke这两个层级中都有一定的体现（Long strokes
+are cut into shorter segments based on those two factors）。
+- There are 3 ways of connecting two nodes via an edge.
+通过上文可知，每个segment可以划分为不同的集合：当segment较长时则属于可以被分割为多个短的stroke的集合，反之则属于不能被划分的短stroke集合
+（这也是其论文名字中‘3’的来历）。
