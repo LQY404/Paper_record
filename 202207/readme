@@ -1,0 +1,11 @@
+- S3NET: GRAPH REPRESENTATIONAL NETWORK FOR SKETCH RECOGNITION
+paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102957
+code: https://github.com/yanglan0225/s3net
+
+- Hierarchical Graph Representation Learning with Differentiable Pooling
+paper: https://arxiv.org/pdf/1806.08804.pdf
+code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/diff_pool.py
+code_official: https://github.com/RexYing/diffpool
+reference information: https://blog.csdn.net/yyl424525/article/details/103307795
+
+
