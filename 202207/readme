@@ -8,4 +8,6 @@ code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/
 code_official: https://github.com/RexYing/diffpool
 reference information: https://blog.csdn.net/yyl424525/article/details/103307795
 
-
+- DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
+paper: https://arxiv.org/pdf/2007.11301.pdf
+code_official: https://github.com/alexandre01/deepsvg
