@@ -17,5 +17,14 @@ associated dataset: https://icons8.com/
 paper: https://arxiv.org/abs/1710.10903
 code: https://github.com/Diego999/pyGAT
 
+- DAEGC
+paper: Attributed Graph Clustering: A Deep Attentional Embedding Approach
+code: https://github.com/Tiger101010/DAEGC/tree/main/DAEGC
+
+- Mini-cut: formulate a continuous relaxation of the normalized minCUT problem and train a GNN to compute cluster assignments that minimize this objective
+paper: Spectral Clustering with Graph Neural Networks for Graph Pooling
+code_official: https://graphneural.network/layers/pooling/#mincutpool
+code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/mincut_pool.py
+
 
 
