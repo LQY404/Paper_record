@@ -11,3 +11,11 @@ reference information: https://blog.csdn.net/yyl424525/article/details/103307795
 - DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
 paper: https://arxiv.org/pdf/2007.11301.pdf
 code_official: https://github.com/alexandre01/deepsvg
+associated dataset: https://icons8.com/
+
+- GAT
+paper: https://arxiv.org/abs/1710.10903
+code: https://github.com/Diego999/pyGAT
+
+
+
