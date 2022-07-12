@@ -17,8 +17,8 @@ associated dataset: https://icons8.com/
 paper: https://arxiv.org/abs/1710.10903
 code: https://github.com/Diego999/pyGAT
 
-- DAEGC
-paper: Attributed Graph Clustering: A Deep Attentional Embedding Approach
+- DAEGC: Attributed Graph Clustering: A Deep Attentional Embedding Approach
+paper: https://arxiv.org/pdf/1906.06532.pdf
 code: https://github.com/Tiger101010/DAEGC/tree/main/DAEGC
 
 - Mini-cut: formulate a continuous relaxation of the normalized minCUT problem and train a GNN to compute cluster assignments that minimize this objective
