@@ -26,5 +26,15 @@ paper: Spectral Clustering with Graph Neural Networks for Graph Pooling
 code_official: https://graphneural.network/layers/pooling/#mincutpool
 code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/mincut_pool.py
 
+- Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+paper: https://arxiv.org/pdf/1905.07953.pdf
+code: https://github.com/benedekrozemberczki/ClusterGCN
 
+- Graph Contrastive Clustering
+paper: https://arxiv.org/pdf/2104.01429.pdf
+code: https://github.com/mynameischaos/GCC
+
+- Scan: Learning to classify images without labels
+paper: https://arxiv.org/pdf/2005.12320.pdf
+code: https://github.com/wvangansbeke/Unsupervised-Classification
 
