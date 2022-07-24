@@ -1,40 +1,49 @@
 - S3NET: GRAPH REPRESENTATIONAL NETWORK FOR SKETCH RECOGNITION
+are: sketch recognition; graph
 paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102957
 code: https://github.com/yanglan0225/s3net
 
 - Hierarchical Graph Representation Learning with Differentiable Pooling
+area: graph clustering; graph pooling
 paper: https://arxiv.org/pdf/1806.08804.pdf
 code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/diff_pool.py
 code_official: https://github.com/RexYing/diffpool
 reference information: https://blog.csdn.net/yyl424525/article/details/103307795
 
 - DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation (需要多看几遍)
+area: graph; svg
 paper: https://arxiv.org/pdf/2007.11301.pdf
 code_official: https://github.com/alexandre01/deepsvg
 associated dataset: https://icons8.com/
 
 - GAT
+area: graph; attention
 paper: https://arxiv.org/abs/1710.10903
 code: https://github.com/Diego999/pyGAT
 
 - DAEGC: Attributed Graph Clustering: A Deep Attentional Embedding Approach
+area: graph clustering
 paper: https://arxiv.org/pdf/1906.06532.pdf
 code: https://github.com/Tiger101010/DAEGC/tree/main/DAEGC
 
 - Mini-cut: formulate a continuous relaxation of the normalized minCUT problem and train a GNN to compute cluster assignments that minimize this objective
+area: graph clustering
 paper: https://arxiv.org/pdf/1907.00481.pdf
 code_official: https://graphneural.network/layers/pooling/#mincutpool
 code: https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/dense/mincut_pool.py
 
 - Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+area: graph clustering
 paper: https://arxiv.org/pdf/1905.07953.pdf
 code: https://github.com/benedekrozemberczki/ClusterGCN
 
 - Graph Contrastive Clustering
+area: graph clustering
 paper: https://arxiv.org/pdf/2104.01429.pdf
 code: https://github.com/mynameischaos/GCC
 
 - Scan: Learning to classify images without labels
+area: unsupervise; contrastive learning; graph clustering
 paper: https://arxiv.org/pdf/2005.12320.pdf
 code: https://github.com/wvangansbeke/Unsupervised-Classification
 
