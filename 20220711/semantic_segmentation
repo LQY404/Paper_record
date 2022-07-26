@@ -1,0 +1,14 @@
+- Deep Hierarchical Semantic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Deep_Hierarchical_Semantic_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/0liliulei/HieraSeg
+code_unoffical: https://github.com/qhanghu/HSSN_pytorch
+
+comment: classes are not arranged in a “flat” structure, but organized as a tree-shaped hierarchy. Thus each pixel observation is associated to a root-to-leaf path of
+the class hierarchy. solve the semantic segmentation task in graph view, like our idea in CAD segmentation task, formulate the segmentation task as graph clustering task.
+
+
+- Rethinking Semantic Segmentation: A Prototype View
+paper: https://arxiv.org/abs/2203.15102
+code: https://github.com/tfzhou/ProtoSeg
+
+comment: 
