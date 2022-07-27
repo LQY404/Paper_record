@@ -1,0 +1,30 @@
+- Deep Hierarchical Semantic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Deep_Hierarchical_Semantic_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/0liliulei/HieraSeg
+code_unoffical: https://github.com/qhanghu/HSSN_pytorch
+
+comment: classes are not arranged in a “flat” structure, but organized as a tree-shaped hierarchy. Thus each pixel observation is associated to a root-to-leaf path of
+the class hierarchy. solve the semantic segmentation task in graph view, like our idea in CAD segmentation task, formulate the segmentation task as graph clustering task.
+
+
+- Rethinking Semantic Segmentation: A Prototype View
+paper: https://arxiv.org/abs/2203.15102
+code: https://github.com/tfzhou/ProtoSeg
+
+comment: 
+
+- Sparse Instance Activation for Real-Time Instance Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Sparse_Instance_Activation_for_Real-Time_Instance_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/hustvl/SparseInst
+
+comment: use fix size pre-defined instance center features represent all instance center this input image. the modeling method is very like the Sparse R-CNN, the difference is, Sparse R-CNN pre-defined the instance features instead of instance center features.
+
+- Instance Segmentation with Mask-supervised Polygonal Boundary Transformers
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf
+code: https://github.com/mlpc-ucsd/BoundaryFormer
+
+- CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_CMT-DeepLab_Clustering_Mask_Transformers_for_Panoptic_Segmentation_CVPR_2022_paper.pdf
+code: None
+
+comment: this method is similarity with our idea in CAD, so we should read and understand this work very careful.
