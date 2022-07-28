@@ -28,3 +28,56 @@ paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_CMT-DeepLab_Clus
 code: None
 
 comment: this method is similarity with our idea in CAD, so we should read and understand this work very careful.
+
+
+- Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf
+code: None
+
+- Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf
+code: None
+
+- PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_PanopticDepth_A_Unified_Framework_for_Depth-Aware_Panoptic_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/NaiyuGao/PanopticDepth
+
+- Mask Transfiner for High-Quality Instance Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Ke_Mask_Transfiner_for_High-Quality_Instance_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/SysCV/transfiner
+
+- Unsupervised Hierarchical Semantic Segmentation With Multiview Cosegmentation and Clustering Transformers
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Ke_Unsupervised_Hierarchical_Semantic_Segmentation_With_Multiview_Cosegmentation_and_Clustering_Transformers_CVPR_2022_paper.pdf
+code: None
+
+- Coarse-To-Fine Feature Mining for Video Semantic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Coarse-To-Fine_Feature_Mining_for_Video_Semantic_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/GuoleiSun/VSS-CFFM
+
+- Sparse Object-Level Supervision for Instance Segmentation With Pixel Embeddings
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wolny_Sparse_Object-Level_Supervision_for_Instance_Segmentation_With_Pixel_Embeddings_CVPR_2022_paper.pdf
+code: https://github.com/kreshuklab/spoco
+
+- Segment-Fusion: Hierarchical Context Fusion for Robust 3D Semantic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Thyagharajan_Segment Fusion_Hierarchical_Context_Fusion_for_Robust_3D_Semantic_Segmentation_CVPR_2022_paper.pdf
+code: None
+
+- Pin the Memory: Learning To Generalize Semantic Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Pin_the_Memory_Learning_To_Generalize_Semantic_Segmentation_CVPR_2022_paper.pdf
+code: https://github.com/Genie-Kim/PintheMemory
+
+- SoftGroup for 3D Instance Segmentation on Point Clouds
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Vu_SoftGroup_for_3D_Instance_Segmentation_on_Point_Clouds_CVPR_2022_paper.pdf
+code: https://github.com/thangvubk/SoftGroup
+
+- SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_SharpContour_A_Contour-Based_Boundary_Refinement_Approach_for_Efficient_and_Accurate_CVPR_2022_paper.pdf
+code: None
+
+- Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Beyond_Semantic_to_Instance_Segmentation_Weakly-Supervised_Instance_Segmentation_via_Semantic_CVPR_2022_paper.pdf
+code: https://github.com/clovaai/BESTIE
+
+- Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Semi-Supervised_Semantic_Segmentation_Using_Unreliable_Pseudo-Labels_CVPR_2022_paper.pdf
+code: https://haochen-wang409.github.io/U2PL
