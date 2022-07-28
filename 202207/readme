@@ -62,6 +62,6 @@ area: referring segmentation
 paper: https://arxiv.org/abs/2105.01839
 code: https://github.com/fengguang94/CEFNet
 
-
-
-
+- DeepDPM: Deep Clustering With an Unknown Number of Clusters
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf
+code: https://github.com/BGU-CS-VIL/DeepDPM
