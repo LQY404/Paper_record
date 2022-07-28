@@ -1,0 +1,8 @@
+- Momentum Contrast for Unsupervised Visual Representation Learning (MOCO)
+paper: https://arxiv.org/pdf/1911.05722.pdf
+code: https://github.com/facebookresearch/moco
+
+- A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)
+paper: https://arxiv.org/pdf/2002.05709.pdf
+code: https://github.com/google-research/simclr
+
