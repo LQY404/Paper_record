@@ -6,3 +6,12 @@ code: https://github.com/facebookresearch/moco
 paper: https://arxiv.org/pdf/2002.05709.pdf
 code: https://github.com/google-research/simclr
 
+- Consistent Explanations by Contrastive Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Pillai_Consistent_Explanations_by_Contrastive_Learning_CVPR_2022_paper.pdf
+code: https://github.com/UCDvision/CGC
+
+- Semantic-Aware Auto-Encoders for Self-supervised Representation Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Semantic-Aware_Auto-Encoders_for_Self-Supervised_Representation_Learning_CVPR_2022_paper.pdf
+code: https://github.com/wanggrun/Semantic-Aware-AE
+
+-
