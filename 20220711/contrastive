@@ -14,4 +14,18 @@ code: https://github.com/UCDvision/CGC
 paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Semantic-Aware_Auto-Encoders_for_Self-Supervised_Representation_Learning_CVPR_2022_paper.pdf
 code: https://github.com/wanggrun/Semantic-Aware-AE
 
--
+- Contextual Outpainting With Object-Level Contrastive Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf
+code: https://ddlee-cn.github.io/cto-gan
+
+- Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.pdf
+code: None
+
+- Class-Aware Contrastive Semi-Supervised Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.pdf
+code: None
+
+- Rethinking Minimal Sufficient Representation in Contrastive Learning
+paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf
+code: https://github.com/Haoqing-Wang/InfoCL
