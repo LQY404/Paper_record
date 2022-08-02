@@ -29,3 +29,16 @@ code: None
 - Rethinking Minimal Sufficient Representation in Contrastive Learning
 paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf
 code: https://github.com/Haoqing-Wang/InfoCL
+
+
+- With a Little Help From My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations
+paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Dwibedi_With_a_Little_Help_From_My_Friends_Nearest-Neighbor_Contrastive_Learning_ICCV_2021_paper.pdf
+code: None
+
+- Long Short View Feature Decomposition via Contrastive Video Representation Learning
+paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Behrmann_Long_Short_View_Feature_Decomposition_via_Contrastive_Video_Representation_Learning_ICCV_2021_paper.pdf
+code: 
+
+- TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment
+paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf
+code: None
