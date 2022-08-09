@@ -42,3 +42,13 @@ code:
 - TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment
 paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf
 code: None
+
+- Parametric Contrastive Learning
+paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Parametric_Contrastive_Learning_ICCV_2021_paper.pdf
+code: https://github.com/dvlab-research/Parametric-Contrastive-Learning
+
+- End-to-end robust joint unsupervised image alignment and clustering
+paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_End-to-End_Robust_Joint_Unsupervised_Image_Alignment_and_Clustering_ICCV_2021_paper.pdf
+code: https://github.com/xulabs/aitom
+
+
