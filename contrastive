@@ -76,4 +76,8 @@ code: None
 - Multimodal Contrastive Training for Visual Representation Learning
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multimodal_Contrastive_Training_for_Visual_Representation_Learning_CVPR_2021_paper.pdf
 
+- Improving Unsupervised Image Clustering With Robust Learning
+paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf
+code: https://github.com/deu30303/RUC
+
 
