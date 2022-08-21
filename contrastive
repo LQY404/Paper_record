@@ -114,8 +114,17 @@ enlightened
 paper: https://proceedings.mlr.press/v162/ding22a/ding22a.pdf
 code: None
 
+- Unsupervised Feature Learning via Non-Parametric Instance Discrimination
+paper: https://arxiv.org/pdf/1805.01978.pdf
+code: http://github.com/zhirongw/lemniscate.pytorch
 
+- Contrastive Learning of Structured World Models
+paper: https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1911.12247
+code: https://link.zhihu.com/?target=https%3A//github.com/tkipf/c-swm
 
+- UniMoCo: Unsupervised, Semi-Supervised and Full-Supervised Visual Representation Learning
+paper: https://arxiv.org/pdf/2103.10773.pdf
+code: https://github.com/dddzg/unimoco
 
 
 
