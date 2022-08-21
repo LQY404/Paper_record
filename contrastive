@@ -80,4 +80,42 @@ paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multimodal_Con
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf
 code: https://github.com/deu30303/RUC
 
+- Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/19972
+code: https://github.com/boschresearch/rince
+enlightened
+
+- Learning from Label Proportions with Prototypical Contrastive Clustering
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/20112
+code: None
+
+- Boosting Contrastive Learning with Relation Knowledge Distillation
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/20262
+code: None
+
+- How to Find a Good Explanation for Clustering?
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/20306
+code: 
+
+- Parameterized Approximation Algorithms for K-center Clustering and Variants
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/20305
+code: None
+
+- Do More Negative Samples Necessarily Hurt In Contrastive Learning?
+paper: https://proceedings.mlr.press/v162/awasthi22b/awasthi22b.pdf
+code: None
+
+- Supervised Contrastive Learning
+paper: https://arxiv.org/abs/2004.11362
+code: https://github.com/HobbitLong/SupContrast
+enlightened
+
+- Understanding Doubly Stochastic Clustering
+paper: https://proceedings.mlr.press/v162/ding22a/ding22a.pdf
+code: None
+
+
+
+
+
 
