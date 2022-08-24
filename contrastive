@@ -126,5 +126,9 @@ code: https://link.zhihu.com/?target=https%3A//github.com/tkipf/c-swm
 paper: https://arxiv.org/pdf/2103.10773.pdf
 code: https://github.com/dddzg/unimoco
 
+- Deep Semantic Clustering by Partition Confidence Maximisation
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf
+code: https://github.com/Raymond-sci/PICA
+
 
 
