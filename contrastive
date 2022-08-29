@@ -130,5 +130,13 @@ code: https://github.com/dddzg/unimoco
 paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Deep_Semantic_Clustering_by_Partition_Confidence_Maximisation_CVPR_2020_paper.pdf
 code: https://github.com/Raymond-sci/PICA
 
+- Contrastive Deep Supervision
+paper: https://arxiv.org/pdf/2207.05306.pdf
+code: https://github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision
+
+- Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation
+paper: https://arxiv.org/pdf/2207.10892.pdf
+code: https://cvlab.yonsei.ac.kr/projects/DASS
+
 
 
