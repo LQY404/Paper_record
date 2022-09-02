@@ -65,3 +65,26 @@ code: https://github.com/fengguang94/CEFNet
 - DeepDPM: Deep Clustering With an Unknown Number of Clusters
 paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Ronen_DeepDPM_Deep_Clustering_With_an_Unknown_Number_of_Clusters_CVPR_2022_paper.pdf
 code: https://github.com/BGU-CS-VIL/DeepDPM
+
+- Mutual Contrastive Learning for Visual Representation Learning
+paper: https://www.aaai.org/AAAI22Papers/AAAI-1139.YangC.pdf
+code: https://github.com/winycg/MCL
+
+- Deep Graph Clustering via Dual Correlation Reduction
+paper: https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf
+code: https://github.com/yueliu1999/DCRN
+
+- Learning from Label Proportions with Prototypical Contrastive Clustering
+paper: https://www.aaai.org/AAAI22Papers/AAAI-4485.CuelaRosaL.pdf
+code: None
+
+- AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators
+paper: https://www.aaai.org/AAAI22Papers/AAAI-11694.YinY.pdf
+code: https://github.com/Somedaywilldo/AutoGCL
+enlightened
+
+- Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives
+paper: https://www.aaai.org/AAAI22Papers/AAAI-12481.HoffmannD.pdf
+code: https://github.com/boschresearch/rince
+
+
