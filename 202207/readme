@@ -87,4 +87,34 @@ enlightened
 paper: https://www.aaai.org/AAAI22Papers/AAAI-12481.HoffmannD.pdf
 code: https://github.com/boschresearch/rince
 
+- Improved Embeddings with Easy Positive Triplet Mining
+paper: https://arxiv.org/abs/1904.04370
+code: https://github.com/littleredxh/EasyPositiveHardNegative
+enlightened
+
+- METRIC LEARNING WITH ADAPTIVE DENSITY DISCRIMINATION
+paper: https://research.fb.com/wp-content/uploads/2016/05/metric-learning-with-adaptive-density-discrimination.pdf?
+code: https://github.com/vithursant/MagnetLoss-PyTorch/
+enlightened
+
+- Deep Metric Learning A Survey
+paper: https://www.researchgate.net/publication/335314481_Deep_Metric_Learning_A_Survey/link/5d6d1e6d299bf1808d5f139d/download
+code: None
+enlightened
+
+- Deep Metric Learning via Facility Location
+paper: https://arxiv.org/abs/1612.01213
+code: None
+enlightened
+
+
+
+
+
+
+
+
+
+
+
 
