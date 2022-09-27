@@ -10,4 +10,9 @@
 - Leveraging Pretrained Image Classifiers for Language-Based Segmentation
   - semantic segmentation models cannot easily generalize to new object classes unseen during train time.
   - propose a novel segmentation model that injects visual priors into semantic segmentation architectures, allowing them to segment out new target labels without retraining.
-  - 
+
+- Improved Embeddings with Easy Positive Triplet Mining
+  - propose an alternative, loosened embedding strategy that requires the embedding function only map each training image to the most similar examples from the same class, an approach we call “Easy Positive” mining.
+  - experiments and visualizations that highlight that this Easy Positive mining leads to embeddings that are more flexible and generalize better to new unseen data.
+  - exceeds state of the art approaches on image retrieval datasets.
+
