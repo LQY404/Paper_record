@@ -1,0 +1,22 @@
+- Free2CAD: Parsing Freehand Drawings into CAD Commands
+  - Parsing freehand drawings into CAD programs
+  - paper: http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/paper_docs/Free2CAD_SIG_2022.pdf
+  - code: https://github.com/Enigma-li/Free2CAD
+- Learning Multimodal Affinities for Textual Editing in Images
+  - paper: https://arxiv.org/abs/2103.10139
+  - code: None
+- Interactive Monte Carlo Denoising using Affinity of Neural Features
+  -  paper: https://www.mustafaisik.net/pdfs/isik2021-anf.pdf
+  -  code: None
+-  Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences
+  - Reinforcement Learning based method
+  - paper: https://arxiv.org/abs/2010.02392
+  - code: https://github.com/AutodeskAILab/Fusion360GalleryDataset
+- Neural Scene Graph Rendering
+  - paper: https://d1qx31qr3h6wln.cloudfront.net/publications/nsgr.pdf
+  - code: None
+- Weakly-supervised contrastive learning in path manifold for Monte Carlo image reconstruction
+  - contrastive based method
+  - paper: https://sgvr.kaist.ac.kr/wp-content/uploads/2021/05/main.pdf
+  - code: https://github.com/Mephisto405/WCMC
+- 
