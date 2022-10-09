@@ -103,6 +103,7 @@ code: None
 enlightened
 
 - Deep Metric Learning via Facility Location
+The proposed method encourages small sum of distances within each cluster, while discouraging different clusters from getting close to each other.
 paper: https://arxiv.org/abs/1612.01213
 code: None
 enlightened
