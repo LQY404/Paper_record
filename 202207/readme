@@ -108,6 +108,14 @@ paper: https://arxiv.org/abs/1612.01213
 code: None
 enlightened
 
+- Contrastive Deep Supervision
+paper: https://arxiv.org/abs/2207.05306
+code: https://github.com/archiplab-linfengzhang/contrastive-deep-supervision
+
+- Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning
+paper: https://arxiv.org/abs/2203.07677
+code: None
+
 
 
 
