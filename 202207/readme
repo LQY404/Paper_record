@@ -116,7 +116,15 @@ code: https://github.com/archiplab-linfengzhang/contrastive-deep-supervision
 paper: https://arxiv.org/abs/2203.07677
 code: None
 
+- Few-Shot Classification with Contrastive Learning
+paper: https://arxiv.org/abs/2209.08224
+code: None
+enlightened
 
+- Adversarial Contrastive Learning via Asymmetric InfoNCE
+paper: https://arxiv.org/abs/2207.08374
+code: https://github.com/yqy2001/A-InfoNCE
+enlightened
 
 
 
