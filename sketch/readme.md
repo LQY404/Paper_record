@@ -7,4 +7,9 @@ code: None
 paper: https://arxiv.org/abs/2112.03258
 code: https://github.com/ankanbhunia/doodleformer
 
+- Vitruvion: A Generative Model of Parametric CAD Sketches
+paper: https://openreview.net/pdf?id=Ow1C7s3UcY
+code: 
+由输入的hand-write的CAD草图，生成规则的CAD草图，再生成对应的3D模型
+
 
